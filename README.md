@@ -11,5 +11,5 @@ Welcome to my Excel projects repository! Here, you'll find a collection of Excel
 
 ## Project List
 
-- Project 1: Bike.xls is a dashboard based on bike ownership.
+- Project 1: Bike.xlsx is a dashboard based on bike ownership.
 
